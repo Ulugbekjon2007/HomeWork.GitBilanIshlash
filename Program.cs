@@ -6,6 +6,7 @@ namespace GitBilanIshlash
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Hammaga salom");
         }
     }
 }
